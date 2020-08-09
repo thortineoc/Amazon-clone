@@ -1,6 +1,12 @@
-Deployed with firebase
+## Deployed with firebase
 
 Link: https://clone-4860a.web.app
+
+## Used:
+- React Context API
+- React hook - useEffect
+- React Router
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
